@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516163058190",
+    "project_id": "strm-dc8d5",
+    "storage_bucket": "strm-dc8d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516163058190:android:6109565d3471bb025d9a5f",
+        "android_client_info": {
+          "package_name": "com.example.strm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XlXyiWu03N89usF8ISAQBXAHJS7At_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
